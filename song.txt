@@ -3,5 +3,6 @@ ez a második sora
 ez a 3
 ez a 4
 
-6
-7
+6 7
+
+revert practice
