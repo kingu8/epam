@@ -13,4 +13,4 @@ one more
 
 branching
 second change in feature
-non fast merge
+new change
