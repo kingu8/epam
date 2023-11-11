@@ -5,8 +5,6 @@ ez a 4
 
 6 7
 
-revert practice
-
 feature
 
 one more
