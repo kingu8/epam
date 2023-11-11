@@ -12,3 +12,5 @@ feature
 one more
 
 branching
+second change in feature
+
